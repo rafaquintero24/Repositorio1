@@ -6,6 +6,7 @@ public class juanito {
 		System.out.println("eewfe");
 		System.out.println("wefwefd");
 		System.out.println();
+		System.out.println();
 	}
 
 }
