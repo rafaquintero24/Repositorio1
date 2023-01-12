@@ -5,6 +5,7 @@ public class juanito {
 		// TODO Auto-generated method stub
 		System.out.println("eewfe");
 		System.out.println("wefwefd");
+		System.out.println();
 	}
 
 }
